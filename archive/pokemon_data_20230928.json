@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Squirtle",
+        "health": 50,
+        "type": "Water",
+        "image_path": "img\\squirtle.png",
+        "possible_moves": ["Tackle", "Water Gun"]
+    },
+    {
+        "name": "Charmander",
+        "health": 50,
+        "type": "Fire",
+        "image_path": "img\\charmander.png",
+        "possible_moves": ["Scratch", "Ember"]
+    },
+    {
+        "name": "Bulbasaur",
+        "health": 50,
+        "type": "Grass",
+        "image_path": "img\\bulbasaur.png",
+        "possible_moves": ["Vine Whip", "Tackle"]
+    }
+]

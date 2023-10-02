@@ -1,0 +1,7 @@
+[
+    {"name": "tackle", "power": 10, "strength_against": null, "weakness_against": ["Rock"]},
+    {"name": "water-gun", "power": 15, "strength_against": ["Rock", "Ground", "Fire"], "weakness_against": ["Grass", "Water"]},
+    {"name": "scratch", "power": 12, "strength_against": null, "weakness_against": ["Rock"]},
+    {"name": "vine-whip", "power": 15, "strength_against": ["Rock", "Ground", "Water"], "weakness_against": ["Fire", "Flying"]},
+    {"name": "ember", "power": 15, "strength_against": ["Grass", "Ice"], "weakness_against": ["Water", "Fire"]}
+]

@@ -1,0 +1,7562 @@
+[
+    {
+        "name": "pound",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "karate-chop",
+        "power": 10.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "double-slap",
+        "power": 3.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "comet-punch",
+        "power": 3.6,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mega-punch",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "pay-day",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fire-punch",
+        "power": 15.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "ice-punch",
+        "power": 15.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "thunder-punch",
+        "power": 15.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "scratch",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "vise-grip",
+        "power": 11.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "razor-wind",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "cut",
+        "power": 10.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "gust",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "wing-attack",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fly",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bind",
+        "power": 3.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "slam",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "vine-whip",
+        "power": 9.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "stomp",
+        "power": 13.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "double-kick",
+        "power": 6.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "mega-kick",
+        "power": 24.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "jump-kick",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "rolling-kick",
+        "power": 12.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "headbutt",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "horn-attack",
+        "power": 13.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fury-attack",
+        "power": 3.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "tackle",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "body-slam",
+        "power": 17.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "wrap",
+        "power": 3.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "take-down",
+        "power": 18.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "thrash",
+        "power": 24.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "double-edge",
+        "power": 24.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "poison-sting",
+        "power": 3.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "twineedle",
+        "power": 5.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "pin-missile",
+        "power": 5.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "bite",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "acid",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "ember",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "flamethrower",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "water-gun",
+        "power": 8.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "hydro-pump",
+        "power": 22.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "surf",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "ice-beam",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "blizzard",
+        "power": 22.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "psybeam",
+        "power": 13.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bubble-beam",
+        "power": 13.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "aurora-beam",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "hyper-beam",
+        "power": 30.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "peck",
+        "power": 7.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "drill-peck",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "submission",
+        "power": 16.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "strength",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "absorb",
+        "power": 4.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mega-drain",
+        "power": 8.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "razor-leaf",
+        "power": 11.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "solar-beam",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "petal-dance",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fire-spin",
+        "power": 7.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "thunder-shock",
+        "power": 8.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "thunderbolt",
+        "power": 18.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "thunder",
+        "power": 22.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "rock-throw",
+        "power": 10.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "earthquake",
+        "power": 20.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "dig",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "confusion",
+        "power": 10.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "psychic",
+        "power": 18.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "quick-attack",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rage",
+        "power": 4.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "self-destruct",
+        "power": 40.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "egg-bomb",
+        "power": 20.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "lick",
+        "power": 6.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "smog",
+        "power": 6.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "sludge",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "bone-club",
+        "power": 13.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "fire-blast",
+        "power": 22.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "waterfall",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "clamp",
+        "power": 7.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "swift",
+        "power": 12.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "skull-bash",
+        "power": 26.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "spike-cannon",
+        "power": 4.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "constrict",
+        "power": 2.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "high-jump-kick",
+        "power": 26.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "dream-eater",
+        "power": 20.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "barrage",
+        "power": 3.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "leech-life",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "sky-attack",
+        "power": 28.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bubble",
+        "power": 8.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "dizzy-punch",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "crabhammer",
+        "power": 20.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "explosion",
+        "power": 50.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fury-swipes",
+        "power": 3.6,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bonemerang",
+        "power": 10.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "rock-slide",
+        "power": 15.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "hyper-fang",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "tri-attack",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "slash",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "struggle",
+        "power": 10.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "triple-kick",
+        "power": 2.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "thief",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "flame-wheel",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "snore",
+        "power": 10.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "aeroblast",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "powder-snow",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mach-punch",
+        "power": 8.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "feint-attack",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "sludge-bomb",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "mud-slap",
+        "power": 4.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "octazooka",
+        "power": 13.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "zap-cannon",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "icy-wind",
+        "power": 11.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bone-rush",
+        "power": 5.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "outrage",
+        "power": 24.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "giga-drain",
+        "power": 15.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rollout",
+        "power": 6.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "false-swipe",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "spark",
+        "power": 13.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fury-cutter",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "steel-wing",
+        "power": 14.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "sacred-fire",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "dynamic-punch",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "megahorn",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "dragon-breath",
+        "power": 12.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "pursuit",
+        "power": 8.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "rapid-spin",
+        "power": 10.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "iron-tail",
+        "power": 20.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "metal-claw",
+        "power": 10.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "vital-throw",
+        "power": 14.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "hidden-power",
+        "power": 12.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "cross-chop",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "twister",
+        "power": 8.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "crunch",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "extreme-speed",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "ancient-power",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "shadow-ball",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "future-sight",
+        "power": 24.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rock-smash",
+        "power": 8.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "whirlpool",
+        "power": 7.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fake-out",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "uproar",
+        "power": 18.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "heat-wave",
+        "power": 19.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "facade",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "focus-punch",
+        "power": 30.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "smelling-salts",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "superpower",
+        "power": 24.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "revenge",
+        "power": 12.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "brick-break",
+        "power": 15.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "knock-off",
+        "power": 13.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "eruption",
+        "power": 30.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "secret-power",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "dive",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "arm-thrust",
+        "power": 3.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "luster-purge",
+        "power": 14.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mist-ball",
+        "power": 14.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "blaze-kick",
+        "power": 17.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "ice-ball",
+        "power": 6.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "needle-arm",
+        "power": 12.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "hyper-voice",
+        "power": 18.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "poison-fang",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "crush-claw",
+        "power": 15.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "blast-burn",
+        "power": 30.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "hydro-cannon",
+        "power": 30.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "meteor-mash",
+        "power": 18.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "astonish",
+        "power": 6.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "weather-ball",
+        "power": 10.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "air-cutter",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "overheat",
+        "power": 26.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "rock-tomb",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "silver-wind",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "water-spout",
+        "power": 30.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "signal-beam",
+        "power": 15.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "shadow-punch",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "extrasensory",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "sky-uppercut",
+        "power": 17.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "sand-tomb",
+        "power": 7.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "muddy-water",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "bullet-seed",
+        "power": 5.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "aerial-ace",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "icicle-spear",
+        "power": 5.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "dragon-claw",
+        "power": 16.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "frenzy-plant",
+        "power": 30.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bounce",
+        "power": 17.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mud-shot",
+        "power": 11.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "poison-tail",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "covet",
+        "power": 12.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "volt-tackle",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "magical-leaf",
+        "power": 12.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "leaf-blade",
+        "power": 18.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rock-blast",
+        "power": 5.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "shock-wave",
+        "power": 12.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "water-pulse",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "doom-desire",
+        "power": 28.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "psycho-boost",
+        "power": 28.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "wake-up-slap",
+        "power": 14.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "hammer-arm",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "brine",
+        "power": 13.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "feint",
+        "power": 6.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "pluck",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "u-turn",
+        "power": 14.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "close-combat",
+        "power": 24.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "payback",
+        "power": 10.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "assurance",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "last-resort",
+        "power": 28.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "sucker-punch",
+        "power": 14.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "flare-blitz",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "force-palm",
+        "power": 12.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "aura-sphere",
+        "power": 16.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "poison-jab",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "dark-pulse",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "night-slash",
+        "power": 14.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "aqua-tail",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "seed-bomb",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "air-slash",
+        "power": 15.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "x-scissor",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "bug-buzz",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "dragon-pulse",
+        "power": 17.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "dragon-rush",
+        "power": 20.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "power-gem",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "drain-punch",
+        "power": 15.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "vacuum-wave",
+        "power": 8.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "focus-blast",
+        "power": 24.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "energy-ball",
+        "power": 18.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "brave-bird",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "earth-power",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "giga-impact",
+        "power": 30.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bullet-punch",
+        "power": 8.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "avalanche",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "ice-shard",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "shadow-claw",
+        "power": 14.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "thunder-fang",
+        "power": 13.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "ice-fang",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fire-fang",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "shadow-sneak",
+        "power": 8.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "mud-bomb",
+        "power": 13.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "psycho-cut",
+        "power": 14.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "zen-headbutt",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mirror-shot",
+        "power": 13.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "flash-cannon",
+        "power": 16.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rock-climb",
+        "power": 18.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "draco-meteor",
+        "power": 26.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "discharge",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "lava-plume",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "leaf-storm",
+        "power": 26.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "power-whip",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rock-wrecker",
+        "power": 30.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "cross-poison",
+        "power": 14.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "gunk-shot",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "iron-head",
+        "power": 16.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "magnet-bomb",
+        "power": 12.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "stone-edge",
+        "power": 20.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "chatter",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "judgment",
+        "power": 20.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bug-bite",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "charge-beam",
+        "power": 10.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "wood-hammer",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "aqua-jet",
+        "power": 8.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "attack-order",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "head-smash",
+        "power": 30.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "double-hit",
+        "power": 7.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "roar-of-time",
+        "power": 30.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "spacial-rend",
+        "power": 20.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "magma-storm",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "seed-flare",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "ominous-wind",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "shadow-force",
+        "power": 24.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "psyshock",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "venoshock",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "smack-down",
+        "power": 10.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "storm-throw",
+        "power": 12.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "flame-burst",
+        "power": 14.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "sludge-wave",
+        "power": 19.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "synchronoise",
+        "power": 24.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "flame-charge",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "low-sweep",
+        "power": 13.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "acid-spray",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "foul-play",
+        "power": 19.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "round",
+        "power": 12.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "echoed-voice",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "chip-away",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "clear-smog",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "stored-power",
+        "power": 4.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "scald",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "hex",
+        "power": 13.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "sky-drop",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "circle-throw",
+        "power": 12.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "incinerate",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "acrobatics",
+        "power": 11.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "retaliate",
+        "power": 14.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "inferno",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "water-pledge",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fire-pledge",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "grass-pledge",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "volt-switch",
+        "power": 14.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "struggle-bug",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "bulldoze",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "frost-breath",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "dragon-tail",
+        "power": 12.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "electroweb",
+        "power": 11.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "wild-charge",
+        "power": 18.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "drill-run",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "dual-chop",
+        "power": 8.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "heart-stamp",
+        "power": 12.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "horn-leech",
+        "power": 15.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "sacred-sword",
+        "power": 18.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "razor-shell",
+        "power": 15.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "leaf-tornado",
+        "power": 13.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "steamroller",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "night-daze",
+        "power": 17.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "psystrike",
+        "power": 20.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "tail-slap",
+        "power": 5.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "hurricane",
+        "power": 22.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "head-charge",
+        "power": 24.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "gear-grind",
+        "power": 10.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "searing-shot",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "techno-blast",
+        "power": 24.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "relic-song",
+        "power": 15.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "secret-sword",
+        "power": 17.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "glaciate",
+        "power": 13.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bolt-strike",
+        "power": 26.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "blue-flare",
+        "power": 26.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fiery-dance",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "freeze-shock",
+        "power": 28.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "ice-burn",
+        "power": 28.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "snarl",
+        "power": 11.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "icicle-crash",
+        "power": 17.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "v-create",
+        "power": 36.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fusion-flare",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fusion-bolt",
+        "power": 20.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "flying-press",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "belch",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "fell-stinger",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "phantom-force",
+        "power": 18.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "parabolic-charge",
+        "power": 13.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "petal-blizzard",
+        "power": 18.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "freeze-dry",
+        "power": 14.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "disarming-voice",
+        "power": 8.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "draining-kiss",
+        "power": 10.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "play-rough",
+        "power": 18.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fairy-wind",
+        "power": 8.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "moonblast",
+        "power": 19.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "boomburst",
+        "power": 28.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "diamond-storm",
+        "power": 20.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "steam-eruption",
+        "power": 22.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "hyperspace-hole",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "water-shuriken",
+        "power": 3.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "mystical-fire",
+        "power": 15.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "dazzling-gleam",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "nuzzle",
+        "power": 4.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "hold-back",
+        "power": 8.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "infestation",
+        "power": 4.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "power-up-punch",
+        "power": 8.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "oblivion-wing",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "thousand-arrows",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "thousand-waves",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "land's-wrath",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "light-of-ruin",
+        "power": 28.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "origin-pulse",
+        "power": 22.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "precipice-blades",
+        "power": 24.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "dragon-ascent",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "hyperspace-fury",
+        "power": 20.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "catastropika",
+        "power": 42.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "first-impression",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "spirit-shackle",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "darkest-lariat",
+        "power": 17.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "sparkling-aria",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "ice-hammer",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "high-horsepower",
+        "power": 19.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "solar-blade",
+        "power": 25.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "leafage",
+        "power": 8.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "throat-chop",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "pollen-puff",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "anchor-shot",
+        "power": 16.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "lunge",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "fire-lash",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "power-trip",
+        "power": 4.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "burn-up",
+        "power": 26.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "smart-strike",
+        "power": 14.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "revelation-dance",
+        "power": 18.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "core-enforcer",
+        "power": 20.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "trop-kick",
+        "power": 14.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "beak-blast",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "clanging-scales",
+        "power": 22.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "dragon-hammer",
+        "power": 18.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "brutal-swing",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "sinister-arrow-raid",
+        "power": 36.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "malicious-moonsault",
+        "power": 36.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "oceanic-operetta",
+        "power": 39.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "soul-stealing-7-star-strike",
+        "power": 39.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "stoked-sparksurfer",
+        "power": 35.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "pulverizing-pancake",
+        "power": 42.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "genesis-supernova",
+        "power": 37.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "shell-trap",
+        "power": 30.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fleur-cannon",
+        "power": 26.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "psychic-fangs",
+        "power": 17.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "stomping-tantrum",
+        "power": 15.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "shadow-bone",
+        "power": 17.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "accelerock",
+        "power": 8.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "liquidation",
+        "power": 17.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "prismatic-laser",
+        "power": 32.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "spectral-thief",
+        "power": 18.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "sunsteel-strike",
+        "power": 20.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "moongeist-beam",
+        "power": 20.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "zing-zap",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "multi-attack",
+        "power": 24.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "10,000,000-volt-thunderbolt",
+        "power": 39.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "mind-blown",
+        "power": 30.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "plasma-fists",
+        "power": 20.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "photon-geyser",
+        "power": 20.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "light-that-burns-the-sky",
+        "power": 40.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "searing-sunraze-smash",
+        "power": 40.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "menacing-moonraze-maelstrom",
+        "power": 40.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "let's-snuggle-forever",
+        "power": 38.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "splintered-stormshards",
+        "power": 38.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "clangorous-soulblaze",
+        "power": 37.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "zippy-zap",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "splishy-splash",
+        "power": 18.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "floaty-fall",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bouncy-bubble",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "buzzy-buzz",
+        "power": 12.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "sizzly-slide",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "glitzy-glow",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "baddy-bad",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "sappy-seed",
+        "power": 20.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "freezy-frost",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "sparkly-swirl",
+        "power": 24.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "double-iron-bash",
+        "power": 12.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "dynamax-cannon",
+        "power": 20.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "snipe-shot",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "jaw-lock",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "dragon-darts",
+        "power": 10.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "bolt-beak",
+        "power": 17.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "fishious-rend",
+        "power": 17.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "body-press",
+        "power": 16.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "drum-beating",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "snap-trap",
+        "power": 7.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "pyro-ball",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "behemoth-blade",
+        "power": 20.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "behemoth-bash",
+        "power": 20.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "aura-wheel",
+        "power": 22.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "breaking-swipe",
+        "power": 12.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "branch-poke",
+        "power": 8.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "overdrive",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "apple-acid",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "grav-apple",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "spirit-break",
+        "power": 15.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "strange-steam",
+        "power": 18.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "false-surrender",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "meteor-assault",
+        "power": 30.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "eternabeam",
+        "power": 32.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "steel-beam",
+        "power": 28.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "expanding-force",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "steel-roller",
+        "power": 26.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "scale-shot",
+        "power": 5.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "meteor-beam",
+        "power": 24.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "shell-side-arm",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "misty-explosion",
+        "power": 20.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "grassy-glide",
+        "power": 12.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rising-voltage",
+        "power": 14.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "terrain-pulse",
+        "power": 10.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "skitter-smack",
+        "power": 14.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "burning-jealousy",
+        "power": 14.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "lash-out",
+        "power": 15.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "poltergeist",
+        "power": 22.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "flip-turn",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "triple-axel",
+        "power": 4.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "dual-wingbeat",
+        "power": 8.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "scorching-sands",
+        "power": 14.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "wicked-blow",
+        "power": 15.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "surging-strikes",
+        "power": 5.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "thunder-cage",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "dragon-energy",
+        "power": 30.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "freezing-glare",
+        "power": 18.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "fiery-wrath",
+        "power": 18.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "thunderous-kick",
+        "power": 18.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "glacial-lance",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "astral-barrage",
+        "power": 24.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "eerie-spell",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "dire-claw",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "psyshield-bash",
+        "power": 14.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "stone-axe",
+        "power": 13.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "springtide-storm",
+        "power": 20.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mystical-power",
+        "power": 14.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "raging-fury",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "wave-crash",
+        "power": 24.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "chloroblast",
+        "power": 30.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "mountain-gale",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "headlong-rush",
+        "power": 24.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "barb-barrage",
+        "power": 12.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "esper-wing",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "bitter-malice",
+        "power": 15.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "triple-arrows",
+        "power": 18.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "infernal-parade",
+        "power": 12.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "ceaseless-edge",
+        "power": 13.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "bleakwind-storm",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "wildbolt-storm",
+        "power": 20.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "sandsear-storm",
+        "power": 20.0,
+        "strength_against": [
+            "Fire",
+            "Electric",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Grass",
+            "Ice",
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "name": "tera-blast",
+        "power": 16.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "axe-kick",
+        "power": 24.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "last-respects",
+        "power": 10.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "lumina-crash",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "order-up",
+        "power": 16.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "jet-punch",
+        "power": 12.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "spin-out",
+        "power": 20.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "population-bomb",
+        "power": 4.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "ice-spinner",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Ice",
+            "Steel"
+        ]
+    },
+    {
+        "name": "glaive-rush",
+        "power": 24.0,
+        "strength_against": [
+            "Dragon"
+        ],
+        "weakness_against": [
+            "Steel"
+        ]
+    },
+    {
+        "name": "salt-cure",
+        "power": 8.0,
+        "strength_against": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Bug"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "name": "triple-dive",
+        "power": 6.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "mortal-spin",
+        "power": 6.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "kowtow-cleave",
+        "power": 17.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "flower-trick",
+        "power": 14.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "torch-song",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "aqua-step",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "raging-bull",
+        "power": 18.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "make-it-rain",
+        "power": 24.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "psyblade",
+        "power": 16.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "hydro-steam",
+        "power": 16.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "collision-course",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "electro-drift",
+        "power": 20.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "pounce",
+        "power": 10.0,
+        "strength_against": [
+            "Grass",
+            "Psychic",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Fighting",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "trailblaze",
+        "power": 10.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "chilling-water",
+        "power": 10.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "hyper-drill",
+        "power": 20.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "twin-beam",
+        "power": 8.0,
+        "strength_against": [
+            "Fighting",
+            "Poison"
+        ],
+        "weakness_against": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "rage-fist",
+        "power": 10.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Dark"
+        ]
+    },
+    {
+        "name": "armor-cannon",
+        "power": 24.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "bitter-blade",
+        "power": 18.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "double-shock",
+        "power": 24.0,
+        "strength_against": [
+            "Water",
+            "Flying"
+        ],
+        "weakness_against": [
+            "Electric",
+            "Ground",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "gigaton-hammer",
+        "power": 32.0,
+        "strength_against": [
+            "Ice",
+            "Rock",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "name": "aqua-cutter",
+        "power": 14.0,
+        "strength_against": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Water",
+            "Electric",
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "blazing-torque",
+        "power": 16.0,
+        "strength_against": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Water",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "wicked-torque",
+        "power": 16.0,
+        "strength_against": [
+            "Psychic",
+            "Ghost"
+        ],
+        "weakness_against": [
+            "Fighting",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "noxious-torque",
+        "power": 20.0,
+        "strength_against": [
+            "Grass",
+            "Fairy"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Ground",
+            "Rock",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "combat-torque",
+        "power": 20.0,
+        "strength_against": [
+            "Normal",
+            "Ice",
+            "Rock",
+            "Dark",
+            "Steel"
+        ],
+        "weakness_against": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "magical-torque",
+        "power": 20.0,
+        "strength_against": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "name": "blood-moon",
+        "power": 28.0,
+        "strength_against": [],
+        "weakness_against": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "name": "matcha-gotcha",
+        "power": 16.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "syrup-bomb",
+        "power": 12.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    },
+    {
+        "name": "ivy-cudgel",
+        "power": 20.0,
+        "strength_against": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "weakness_against": [
+            "Fire",
+            "Grass",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Dragon",
+            "Steel"
+        ]
+    }
+]
