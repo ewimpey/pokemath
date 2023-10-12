@@ -1,0 +1,2 @@
+recursive-include src *.json
+recursive-include img *.png
