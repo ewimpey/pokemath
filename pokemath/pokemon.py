@@ -1,4 +1,5 @@
 import random
+import pkg_resources
 
 # Defining the Pokemon class
 class Pokemon:
@@ -7,7 +8,7 @@ class Pokemon:
         self.health = health
         self.original_health = health
         self.type_ = type_
-        self.image_path = image_path
+        self.image_path = pkg_resources.resource_filename('pokemath', image_path)
         self.possible_moves = possible_moves
         self.equipped_moves = []
         
