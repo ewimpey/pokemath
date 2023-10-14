@@ -1,9 +1,17 @@
 # pokemath
 Interactive game for kids with Pokemon and math challenges
 
-Run GUI with `python main.py`. 
-If it doesn't work, it will one day. Keep trying. Or help me fix it.
+### Installation
+Install directly from github with the following in the command line
 
+`pip install git+https://github.com/ewimpey/pokemath.git`
+
+### Launching
+From the command line, launch the GUI:
+
+`pokemath`
+
+### Playing
 Within the gui, it's time to play!
 Use the search bar to find your pokemon:
 
