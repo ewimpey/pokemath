@@ -1,17 +1,20 @@
 import json
 from .pokemon import Pokemon
 from .move import Move
+import pkg_resources
+moves_data_path = pkg_resources.resource_filename('pokemath', 'moves_data.json')
+pokemon_data_path = pkg_resources.resource_filename('pokemath', 'pokemon_data.json')
 
 def load_data():
     # Load the moves data from the JSON file
-    with open('pokemath\\moves_data.json', 'r') as file:
+    with open(moves_data_path, 'r') as file:
         moves_data = json.load(file)
 
     # Create Move objects from the loaded data, return empty list if no strength or weakness
     all_moves = {data['name']: Move(data['name'], data['power'], data.get('strength_against', []), data.get('weakness_against', [])) for data in moves_data}
 
     # Load the Pokémon data from the JSON file
-    with open('pokemath\\pokemon_data.json', 'r') as file:
+    with open(pokemon_data_path, 'r') as file:
         pokemon_data = json.load(file)
 
     # Create Pokémon objects from the loaded data
