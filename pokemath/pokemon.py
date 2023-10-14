@@ -8,9 +8,9 @@ class Pokemon:
         self.health = health
         self.original_health = health
         self.type_ = type_
-        adjusted_image_path = 'img/' + image_path.split('/')[-1]
-        self.image_path = pkg_resources.resource_filename('pokemath', adjusted_image_path)
-        #self.image_path = pkg_resources.resource_filename('pokemath', image_path)
+        #adjusted_image_path = 'img/' + image_path.split('/')[-1]
+        #self.image_path = pkg_resources.resource_filename('pokemath', adjusted_image_path)
+        self.image_path = pkg_resources.resource_filename('pokemath', image_path)
         self.possible_moves = possible_moves
         self.equipped_moves = []
         
