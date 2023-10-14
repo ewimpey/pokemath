@@ -1,8 +1,8 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from src.gui import PokemonChooser
+from pokemath.gui import PokemonChooser
 #from src.pokemon_data import all_pokemon  
-from src.data_loader import load_data
+from pokemath.data_loader import load_data
 
 def main():
     app = QApplication(sys.argv)

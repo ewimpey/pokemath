@@ -3,8 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="pokemath",
     version="0.1",
-    packages=find_packages(where='src'),
-    package_dir={"": "src"},
+    packages=find_packages(),
     include_package_data=True,
     install_requires=[
        "beautifulsoup4==4.12.2",
@@ -14,7 +13,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "pokemath = launcher:main",
+            "pokemath = pokemath.__main__:main",
         ],
     },
 )

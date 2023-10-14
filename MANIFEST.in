@@ -1,2 +1,2 @@
-recursive-include src *.json
+recursive-include pokemath *.json
 recursive-include img *.png
