@@ -22,3 +22,20 @@ Answer the math questions correctly and you'll get a bonus:
 <img width="406" alt="image" src="https://github.com/ewimpey/pokemath/assets/42553063/e4d02a5a-efdc-479f-aa18-31cf474dfd31">
 
 Once the battle is over, choose another pokemon and battle again.
+
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Dependency Licenses
+
+This project depends on the following libraries:
+
+- [pypokedex](https://github.com/arnavb/pypokedex): Licensed under the [MIT License](https://github.com/arnavb/pypokedex/blob/master/LICENSE).
+- [requests](https://github.com/requests/requests): Licensed under the [Apache 2.0 License](https://github.com/requests/requests/blob/master/LICENSE).
+- [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/): Licensed under the [MIT License](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+- [PyQT](https://www.riverbankcomputing.com/software/pyqt/): Licensed under the [GPL](https://www.riverbankcomputing.com/commercial/license-faq).
+
+Please review the licenses of these dependencies to ensure compliance with their terms.

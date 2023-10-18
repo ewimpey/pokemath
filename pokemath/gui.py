@@ -218,3 +218,7 @@ class PokemonChooser(QMainWindow):
         self.search_box.clear()
         self.search_box.show()
 
+    def keyPressEvent(self, event):
+        # Handle key events, including "Escape" key for resetting the game
+        if event.key() == Qt.Key_Escape:
+            self.reset_game()
