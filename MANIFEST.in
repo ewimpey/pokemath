@@ -1,2 +1,6 @@
 recursive-include pokemath *.json
 recursive-include img *.png
+recursive-include pokemath *.png
+recursive-include pokemath/img *.png
+
+
