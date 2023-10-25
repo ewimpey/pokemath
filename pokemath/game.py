@@ -13,7 +13,7 @@ class Game:
         self.assign_player_pokemon(player_pokemon_choice, all_pokemon)
         self.assign_opponent_pokemon(all_pokemon)
         self.opponent_pokemon.equip_moves(2)
-
+ 
     def assign_player_pokemon(self, player_pokemon_choice, all_pokemon):
         self.player_pokemon = [poke for poke in all_pokemon if poke.image_path == player_pokemon_choice][0]
 
@@ -21,7 +21,7 @@ class Game:
         all_pokemon = [poke for poke in all_pokemon if poke != self.player_pokemon]  # Exclude the player's Pokémon
         possible_opponents = [
             poke for poke in all_pokemon 
-            if self.player_pokemon.health - hp_range <= poke.health <= self.player_pokemon.health + hp_range
+            if self.player_pokemon.original_health - hp_range <= poke.original_health <= self.player_pokemon.original_health + hp_range
         ]
         
         # If there are possible opponents within the HP range, choose one randomly

@@ -8,11 +8,21 @@ from PyQt5.QtCore import QSortFilterProxyModel, Qt
 
 from .game import Game
 import random
+import csv
+
 
 class PokemonChooser(QMainWindow):
     def __init__(self, all_pokemon):
         super().__init__()
         self.game = Game()
+        # Prompt player for their name
+        self.player_name, ok = QInputDialog.getText(self, 'Player Name', 'Enter your name:')
+        if not ok or not self.player_name.strip():
+            # If the player cancels the input dialog or doesn't provide a valid name, close the game
+            self.close()
+
+        self.defeated_count = 0
+
         self.all_pokemon = all_pokemon
         self.pokemon_buttons = []
         
@@ -34,18 +44,24 @@ class PokemonChooser(QMainWindow):
         # Player's Pokémon and health bar (vertical layout)
         v_player_layout = QVBoxLayout()
         self.lbl_player_image = QLabel(self)
+        self.lbl_player_pokemon_name = QLabel(self)
+        v_player_layout.addWidget(self.lbl_player_pokemon_name)
         v_player_layout.addWidget(self.lbl_player_image)
         self.player_health_bar = QProgressBar(self)
         v_player_layout.addWidget(self.player_health_bar)
         pokemon_layout.addLayout(v_player_layout)
+        
 
         # Opponent's Pokémon and health bar (vertical layout)
         v_opponent_layout = QVBoxLayout()
         self.lbl_opponent_image = QLabel(self)
+        self.lbl_opponent_pokemon_name = QLabel(self)
+        v_opponent_layout.addWidget(self.lbl_opponent_pokemon_name)
         v_opponent_layout.addWidget(self.lbl_opponent_image)
         self.opponent_health_bar = QProgressBar(self)
         v_opponent_layout.addWidget(self.opponent_health_bar)
         pokemon_layout.addLayout(v_opponent_layout)
+        
 
         main_layout.addLayout(pokemon_layout)
 
@@ -121,11 +137,12 @@ class PokemonChooser(QMainWindow):
         #for debugging:
         print(f"Player Pokemon Choice: {player_pokemon_choice}")
         
-        # code to keep...
-
         self.game.initialize_game(player_pokemon_choice, self.all_pokemon)
         self.display_image(self.lbl_player_image, self.game.player_pokemon.image_path)
         self.display_image(self.lbl_opponent_image, self.game.opponent_pokemon.image_path)
+        self.lbl_player_pokemon_name.setText(self.game.player_pokemon.name)
+        self.lbl_opponent_pokemon_name.setText(self.game.opponent_pokemon.name)
+
 
         self.player_health_bar.setMaximum(self.game.player_pokemon.original_health)
         self.player_health_bar.setValue(self.game.player_pokemon.health)
@@ -145,7 +162,7 @@ class PokemonChooser(QMainWindow):
         selected_move_name = sender.text()
         selected_categories = self.get_selected_categories()
 
-            # Check if any category is selected
+        # Check if any category is selected
         if not selected_categories:
             QMessageBox.warning(self, "No Category Selected", "Please select at least one math category before choosing a move.")
             return
@@ -157,7 +174,7 @@ class PokemonChooser(QMainWindow):
         if self.game.opponent_pokemon.health <= 0:
             self.opponent_health_bar.setValue(self.game.opponent_pokemon.health)
             QMessageBox.information(self, "Victory", f"{self.game.opponent_pokemon.name} is defeated! You win!")
-            self.reset_game()
+            self.reset_opponent()
         else:
             player_answer, ok = QInputDialog.getDouble(self, "Math Question", question)
             self.opponent_health_bar.setValue(self.game.opponent_pokemon.health)
@@ -188,7 +205,7 @@ class PokemonChooser(QMainWindow):
                 self.reset_game()
             elif self.game.opponent_pokemon.health <= 0:
                 QMessageBox.information(self, "Victory", f"{self.game.opponent_pokemon.name} is defeated! You win!")
-                self.reset_game()
+                self.reset_opponent()
 
     def display_image(self, label, image_path):
         pixmap = QPixmap(image_path)
@@ -205,6 +222,10 @@ class PokemonChooser(QMainWindow):
             self.move_buttons[i].show()
 
     def reset_game(self):
+        msg_box = QMessageBox()
+        message = self.get_defeat_message(self.defeated_count, self.player_name)
+        msg_box.setText(message)
+        msg_box.exec_()
         self.game.player_pokemon.health = self.game.player_pokemon.original_health
         self.game.opponent_pokemon.health = self.game.opponent_pokemon.original_health
         self.lbl_player_image.clear()
@@ -214,9 +235,63 @@ class PokemonChooser(QMainWindow):
         for btn in self.move_buttons:
             btn.hide()
         
+        self.log_score()
+        self.display_leaderboard()
+        
+        self.defeated_count = 0
         self.pokemon_list_view.show()
         self.search_box.clear()
         self.search_box.show()
+        self.player_name, ok = QInputDialog.getText(self, 'Player Name', 'Enter your name:')
+
+    def reset_opponent(self):
+        self.lbl_opponent_image.clear()
+        self.game.assign_opponent_pokemon(self.all_pokemon)
+        self.game.opponent_pokemon.equip_moves(2)
+        self.lbl_opponent_pokemon_name.setText(self.game.opponent_pokemon.name)
+        self.lbl_opponent_image.setPixmap(QPixmap(self.game.opponent_pokemon.image_path).scaled(200, 200))
+        self.opponent_health_bar.setMaximum(self.game.opponent_pokemon.original_health)
+        self.opponent_health_bar.setValue(self.game.opponent_pokemon.original_health)
+        self.defeated_count += 1
+
+
+    def get_defeat_message(self, count, name):
+        if count == 0:
+            return f"Better luck next time, {name}!"
+        elif count <= 2:
+            return f"Way to go {name}. You defeated {count} Pokémon. Keep practicing!"
+        elif count <= 5:
+            return f"Whoa!! {name} defeated {count} Pokémon. Good job!"
+        else:
+            return f"Congratulations! You defeated {count} Pokémon. {name} is a  Pokémon Master!"
+
+    def log_score(self):
+        with open('leaderboard.csv', 'a', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow([self.player_name, self.game.player_pokemon.name, self.defeated_count])
+
+    def display_leaderboard(self):
+        # Read the scores
+        scores = []
+        with open('leaderboard.csv', 'r') as file:
+            reader = csv.reader(file)
+            for row in reader:
+                player, pokemon, score = row
+                scores.append((player, pokemon, int(score)))
+        
+        # Sort scores by the defeated_count
+        scores.sort(key=lambda x: x[2], reverse=True)
+        
+        # Display the top scores
+        leaderboard_text = "Leaderboard:\n\n"
+        for player, pokemon, score in scores[:10]:  # Display top 10 scores
+            leaderboard_text += f"{player} with {pokemon} - {score} Pokémon defeated\n"
+        
+        msg_box = QMessageBox()
+        msg_box.setText(leaderboard_text)
+        msg_box.exec_()
+
+
 
     def keyPressEvent(self, event):
         # Handle key events, including "Escape" key for resetting the game
